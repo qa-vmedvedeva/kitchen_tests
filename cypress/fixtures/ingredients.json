@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Грибы",
+      "type": "VEGETABLE",
+      "unit": "GRAMS",
+      "kc": 25,
+      "p": 12,
+      "f": 6,
+      "c": 1
+    },
+    {
+      "name": "Мука",
+      "type": "GROCERY",
+      "unit": "GRAMS",
+      "kc": 10,
+      "p": 1,
+      "f": 0,
+      "c": 40
+    }
+]

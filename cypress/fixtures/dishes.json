@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Свекольник",
+    "type": "Диетическое",
+    "category": "Суп",
+    "properties":
+            [
+              "Диетическое",
+              "Вегетарианское"
+            ],
+    "ingredients": [
+      {
+        "ingr": "Свекла",
+        "weight": 50
+      },
+      {
+        "ingr": "Редис",
+        "weight": 50
+      },
+      {
+        "ingr": "Огурцы",
+        "weight": 50
+      },
+      {
+        "ingr": "Яйцо куриное",
+        "weight": 50
+      },
+      {
+        "ingr": "Кефир",
+        "weight": 100
+      },
+      {
+        "ingr": "Картофель",
+        "weight": 50
+      }
+            ],
+    "price": 50,
+    "photo": "beetroot.jpg"
+  },
+  {
+    "name": "Курица в сливочном соусе",
+    "type": "Основное",
+    "category": "Второе",
+    "properties": [
+      "Курица"
+    ],
+    "ingredients": [
+      {
+        "ingr": "Курица",
+        "weight": 50
+      },
+      {
+        "ingr": "Грибы",
+        "weight": 50
+      },
+      {
+        "ingr": "Сливки",
+        "weight": 50
+      },
+      {
+        "ingr": "Мука",
+        "weight": 10
+      }
+    ],
+    "price": 80,
+    "photo": "cream_chicken.jpg"
+  }
+]
